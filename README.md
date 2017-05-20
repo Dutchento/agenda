@@ -10,6 +10,7 @@ YYYY-MM-DD-EVENT-ID
   - date: YYYY-MM-DD
   - title: Your event name
   - location: Somewhere
+  - link: https://example.com/
 ```
 Each entry should start with a key `YYYY-MM-DD-EVENT-ID` (`year` + `month` + `day` + unique name to identify this event).
 
